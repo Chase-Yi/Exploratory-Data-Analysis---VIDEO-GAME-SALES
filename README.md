@@ -17,4 +17,4 @@ The RMarkdown file can be knit into a PDF report that includes both parts of the
 [EDA - VIDEO GAME SALES](https://www.kaggle.com/code/upadorprofzs/eda-video-game-sales)  
 [Video Games Sales Analysis And Visualization](https://www.kaggle.com/code/snanilim/video-games-sales-analysis-and-visualization)  
 
-**Explore the analysis and gain insights into the video game sales market!**
+**Explore the analysis and gain insights into the video game sales market !**
