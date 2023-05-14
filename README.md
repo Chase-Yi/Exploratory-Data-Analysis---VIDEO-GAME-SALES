@@ -13,7 +13,7 @@ This part of the RMarkdown file contains exploratory data analysis on video game
 ## PDF Report
 The RMarkdown file can be knit into a PDF report that includes both parts of the exploratory data analysis. The PDF report is included in this repository as EDA_VIDEO_GAME_SALES.pdf.
 
-**Many thanks for the original kaggle notebooks :**
+**Many thanks for the original kaggle notebooks :**  
 [EDA - VIDEO GAME SALES](https://www.kaggle.com/code/upadorprofzs/eda-video-game-sales)  
 [Video Games Sales Analysis And Visualization](https://www.kaggle.com/code/snanilim/video-games-sales-analysis-and-visualization)  
 
